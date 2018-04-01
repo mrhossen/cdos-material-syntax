@@ -1,1 +1,1 @@
-# gulf-material-syntax
+# cdos-material-syntax
