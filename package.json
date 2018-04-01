@@ -1,0 +1,15 @@
+{
+  "name": "cdos-material-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "CDOS Material syntax theme for Atom",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/mrhossen/cdos-material-syntax.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
